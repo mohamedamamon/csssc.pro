@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(120deg, #00d2ff, #3a47d5);
+  font-family: 'Arial', sans-serif;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.app-container {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+ background-color: #00ffcc;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+}
